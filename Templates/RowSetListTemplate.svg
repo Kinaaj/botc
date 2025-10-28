@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="198mm"
+   height="10mm"
+   viewBox="0 0 198 10"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="RowSetListTemplate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2"
+     inkscape:cx="217.5"
+     inkscape:cy="-16.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999995"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     id="g5"
+     inkscape:label="Row"
+     style="display:inline;stroke:none;stroke-width:1.00177;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.2647424,0,0,0.26432057,-6.0036072,-15.984109)">
+    <rect
+       style="display:inline;opacity:1;fill:#fa0000;fill-opacity:0.307692;stroke:none;stroke-width:1.00177;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="611.91559"
+       height="37.832848"
+       x="158.65842"
+       y="60.472439"
+       inkscape:label="Popis" />
+    <rect
+       style="display:inline;fill:#fa0000;fill-opacity:0.307692;stroke:none;stroke-width:1.00177;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-42"
+       width="98.208679"
+       height="37.832848"
+       x="60.449734"
+       y="60.472439"
+       inkscape:label="Jmeno" />
+    <rect
+       style="display:inline;opacity:1;fill:#fa0000;fill-opacity:0.307692;stroke:none;stroke-width:1.00177;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="37.772568"
+       height="37.832848"
+       x="22.677166"
+       y="60.472439"
+       inkscape:label="Logo" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.9999979,-28.039034)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:3.80938px;font-family:'New Rocker';-inkscape-font-specification:'New Rocker';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0504741"
+       x="18.035286"
+       y="34.122803"
+       id="text1"
+       inkscape:label="Role"><tspan
+         id="tspan1"
+         style="letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0504743"
+         x="18.035286"
+         y="34.122803"
+         sodipodi:role="line">Role</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.0929px;font-family:'New Rocker';-inkscape-font-specification:'New Rocker';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.040981"
+       x="42.755661"
+       y="33.891289"
+       id="text2"
+       inkscape:label="Popis"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';letter-spacing:0px;stroke-width:0.0409811"
+         x="42.755661"
+         y="33.891289">Pravidla popis popis popis</tspan></text>
+  </g>
+</svg>
