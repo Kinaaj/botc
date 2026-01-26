@@ -20,15 +20,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="6.9633855"
-     inkscape:cx="38.55883"
-     inkscape:cy="25.634083"
+     inkscape:zoom="4.9238572"
+     inkscape:cx="34.424232"
+     inkscape:cy="15.130414"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="410"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer2-1"
      inkscape:document-units="mm"
      showgrid="false" /><defs
      id="defs1"><clipPath
@@ -53,6 +53,42 @@
          d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
          id="path1-5" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
+       id="cp1-88"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-5-2" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-8-4"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-55" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-6-1"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-8-7" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-7"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-6" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-85"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-76" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-8-1"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-8-8" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-5-9"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-2-2" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-68-7"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-57-9" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-6-5"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-5-4" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
        id="cp1-1"><path
          d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
          id="path1-7" /></clipPath></defs><style
@@ -62,20 +98,28 @@
 	</style><g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Content"><text
-       xml:space="preserve"
-       style="font-size:25.1071px;font-family:'New Rocker';-inkscape-font-specification:'New Rocker';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.83685;stroke-linecap:round;stroke-dasharray:none"
-       x="8.4089375"
-       y="24.567667"
-       id="text1-8"><tspan
-         sodipodi:role="line"
-         id="tspan1-2"
-         x="8.4089375"
-         y="24.567667"
-         style="fill:#000000;fill-opacity:1;stroke-width:1.83685;stroke-dasharray:none">III</tspan></text><path
-       d="m 19.743479,35.823704 h 8.53476 v 1.74426 h -8.53476 z"
-       style="display:inline;stroke-width:3.71731"
-       id="path1-6" /></g><style
+     inkscape:label="Content"><g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Kruh"
+       style="display:inline" /><g
+       id="layer2-1"
+       inkscape:label="Content"
+       transform="translate(74.203185,31.513188)"><text
+         xml:space="preserve"
+         style="font-size:25.1071px;font-family:'New Rocker';-inkscape-font-specification:'New Rocker';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.97071;stroke-linecap:round;stroke-dasharray:none"
+         x="-66.686203"
+         y="-5.7759118"
+         id="text1-8"><tspan
+           sodipodi:role="line"
+           id="tspan1-2"
+           x="-66.686203"
+           y="-5.7759118"
+           style="fill:#000000;fill-opacity:1;stroke-width:2.97071;stroke-dasharray:none">I</tspan></text><path
+         d="m -54.932839,12.271942 h 8.53476 v 1.74426 h -8.53476 z"
+         style="display:inline;stroke-width:3.71731"
+         id="path1-6-2"
+         sodipodi:nodetypes="ccccc" /></g></g><style
      id="style1-2">
 		tspan { white-space:pre } 
 		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
@@ -93,6 +137,42 @@
 		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
 	</style><style
      id="style1-1">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-8">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-5">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-14">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-3">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-2-3">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-7-3">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-6-4">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-7-9-1">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-1-1">
 		tspan { white-space:pre } 
 		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
 	</style></svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 500 300"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="PrintTableTemplate.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.24901346"
-     inkscape:cx="297.17269"
-     inkscape:cy="220.87159"
+     inkscape:zoom="0.35215821"
+     inkscape:cx="901.5834"
+     inkscape:cy="589.2238"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="410"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false" /><defs
      id="defs1"><clipPath
        clipPathUnits="userSpaceOnUse"
@@ -69,7 +69,139 @@
        clipPathUnits="userSpaceOnUse"
        id="cp1-6"><path
          d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
-         id="path1-18" /></clipPath></defs><g
+         id="path1-18" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-88"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-24" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-5-5"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-4" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-52"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-761" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-5-4"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-4-2" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-7"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-9" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-3-5"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-4-4" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-27"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-79" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-8-3"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-2-1" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-0"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-90" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-3-0"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-3-6" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-4"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-96" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-3-3"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-3-7" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-42"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-0" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-4-9"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-2-7" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-60"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-71" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-4-7"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-2-77" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-07"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-34" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-7-9"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-9-6" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-33"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-74" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-3-38"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-3-0" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-8-8"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-8-8" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-86"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-12" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-8-4"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-8-2" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-1"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-19" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-3-7"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-8-6" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-525"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-86" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-7-7"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-7-7" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-79"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-97" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-7-6"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-9-9" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-25"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-36" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-8-1"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-9-8" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-96"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-342" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-3-8"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-3-8" /></clipPath></defs><g
      inkscape:label="Tisk"
      inkscape:groupmode="layer"
      id="layer1" /><g
@@ -124,7 +256,31 @@
        style="fill:none;fill-opacity:0.0923077;stroke:#000000;stroke-width:0.0526521"
        d="M 480.02633,0 V 300"
        id="path1-3-3-3-1-3-1"
-       sodipodi:nodetypes="cc" /></g><style
+       sodipodi:nodetypes="cc" /><path
+       d="m 58.764918,29.902502 c 0,16.002438 -12.972536,28.974968 -28.97497,28.974968 -16.002435,0 -28.97497092,-12.97253 -28.97497092,-28.974968 -1e-6,-16.002435 12.97253592,-28.97497231 28.97497092,-28.97497131 16.002434,0 28.97497,12.97253631 28.97497,28.97497131 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-01" /><path
+       d="m 119.27828,29.917361 c 0,16.002439 -12.97253,28.974969 -28.974966,28.974969 -16.002435,0 -28.974971,-12.97253 -28.974971,-28.974969 -10e-7,-16.002435 12.972536,-28.97497231 28.974971,-28.97497131 16.002436,0 28.974966,12.97253631 28.974966,28.97497131 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-94" /><path
+       d="m 178.92115,30.349774 c 0,16.002436 -12.97254,28.974976 -28.97497,28.974976 -16.00243,0 -28.97497,-12.97254 -28.97497,-28.974976 0,-16.002435 12.97254,-28.9749723 28.97497,-28.9749713 16.00243,0 28.97497,12.9725363 28.97497,28.9749713 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-51" /><path
+       d="m 238.89995,30.111406 c 0,16.002434 -12.97254,28.974964 -28.97497,28.974964 -16.00243,0 -28.97497,-12.97253 -28.97497,-28.974964 0,-16.002435 12.97254,-28.9749723 28.97497,-28.9749713 16.00243,0 28.97497,12.9725363 28.97497,28.9749713 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-6" /><path
+       d="m 299.28413,29.582239 c 0,16.002431 -12.97254,28.974961 -28.97497,28.974961 -16.00243,0 -28.97497,-12.97253 -28.97497,-28.974961 0,-16.002435 12.97254,-28.97497231 28.97497,-28.97497131 16.00243,0 28.97497,12.97253631 28.97497,28.97497131 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-189" /><path
+       d="m 359.04997,29.838715 c 0,16.002435 -12.97254,28.974965 -28.97497,28.974965 -16.00243,0 -28.97497,-12.97253 -28.97497,-28.974965 0,-16.002435 12.97254,-28.97497231 28.97497,-28.97497131 16.00243,0 28.97497,12.97253631 28.97497,28.97497131 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-439" /><path
+       d="m 419.00445,29.941684 c 0,16.002436 -12.97254,28.974966 -28.97497,28.974966 -16.00243,0 -28.97497,-12.97253 -28.97497,-28.974966 0,-16.002435 12.97254,-28.97497231 28.97497,-28.97497131 16.00243,0 28.97497,12.97253631 28.97497,28.97497131 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-8" /><path
+       d="m 479.51539,29.804392 c 0,16.002438 -12.97254,28.974968 -28.97497,28.974968 -16.00243,0 -28.97497,-12.97253 -28.97497,-28.974968 0,-16.002435 12.97254,-28.97497231 28.97497,-28.97497131 16.00243,0 28.97497,12.97253631 28.97497,28.97497131 z"
+       style="fill:none;stroke:#000000;stroke-width:0.050057"
+       id="path1-38" /></g><style
      id="style1">
 		tspan { white-space:pre } 
 		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
@@ -158,6 +314,138 @@
 		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
 	</style><style
      id="style1-79">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-5">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-3">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-32">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-3-1">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-31">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-4-3">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-98">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-9-4">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-13">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-4-6">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-8">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-4-63">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-37">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-3-0">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-73">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-3-6">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-51">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-5-2">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-06">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-4-0">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-2-7">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-58">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-2-6">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-29">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-7-9">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-229">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-9-9">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-35">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-3-5">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-6">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-2-4">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-75">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style><style
+     id="style1-4-30">
 		tspan { white-space:pre } 
 		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
 	</style></svg>
