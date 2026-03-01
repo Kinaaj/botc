@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="rect.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="6.2214292"
+     inkscape:cx="27.083809"
+     inkscape:cy="13.421353"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="410"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-5" /></clipPath></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="rect1"
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 0.025,0.025 H 14.430043 V 8.4769389 H 0.025 Z"
+       inkscape:label="cut" /><path
+       id="rect1-8"
+       style="stroke-width:0.0160827;stroke-linejoin:round;stroke:none;stroke-opacity:1;fill:#bf0000;fill-opacity:1"
+       d="M 0.83495789,1.6118077 H 13.620085 V 6.8901312 H 0.83495789 Z"
+       inkscape:label="eng back" /><path
+       id="path1"
+       style="display:none;stroke:none;stroke-width:0.0160827;stroke-linejoin:round;stroke-opacity:1"
+       d="M 0.83495789,1.6118077 H 13.620085 V 6.8901312 H 0.83495789 Z"
+       inkscape:label="eng front" /></g><style
+     id="style1">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style></svg>
