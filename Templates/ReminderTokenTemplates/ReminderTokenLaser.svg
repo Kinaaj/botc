@@ -20,13 +20,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4"
-     inkscape:cx="63.374999"
-     inkscape:cy="48.875"
+     inkscape:zoom="2"
+     inkscape:cx="57.25"
+     inkscape:cy="42.25"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1027"
      inkscape:window-x="-8"
-     inkscape:window-y="410"
+     inkscape:window-y="440"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -35,7 +35,11 @@
        clipPathUnits="userSpaceOnUse"
        id="cp1"><path
          d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
-         id="path1" /></clipPath></defs><style
+         id="path1" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1-8"><path
+         d="m 275.5,535.5 c -143.78,0 -260,-116.22 -260,-260 0,-143.78 116.22,-260 260,-260 143.78,0 260,116.22 260,260 0,143.78 -116.22,260 -260,260 z"
+         id="path1-8" /></clipPath></defs><style
      id="style1">
 		tspan { white-space:pre } 
 		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
@@ -58,18 +62,7 @@
          style="fill:none;stroke:#000000;stroke-width:0.95000007;stroke-dasharray:none"
          inkscape:label="vnitrni kruh"
          transform="scale(0.19892249)"
-         d="M 529.26178,284.99338 A 244.2684,244.2684 0 0 1 284.99338,529.26178 244.2684,244.2684 0 0 1 40.724976,284.99338 244.2684,244.2684 0 0 1 284.99338,40.724976 244.2684,244.2684 0 0 1 529.26178,284.99338 Z" /></g><text
-       xml:space="preserve"
-       style="font-size:139.377px;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';text-align:start;letter-spacing:2.11794px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#de0000;fill-opacity:0.0923077;stroke:#000000;stroke-width:11.17200053;stroke-dasharray:none;stroke-opacity:1"
-       x="107.31017"
-       y="417.94254"
-       id="text2"
-       inkscape:label="Text"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         x="107.31017"
-         y="417.94254"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.377px;font-family:'New Rocker';-inkscape-font-specification:'New Rocker';letter-spacing:2.11794px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:11.17200053;stroke-dasharray:none;stroke-opacity:1">Opilý</tspan></text><path
+         d="M 529.26178,284.99338 A 244.2684,244.2684 0 0 1 284.99338,529.26178 244.2684,244.2684 0 0 1 40.724976,284.99338 244.2684,244.2684 0 0 1 284.99338,40.724976 244.2684,244.2684 0 0 1 529.26178,284.99338 Z" /></g><path
        id="path5-3"
        style="display:inline;stroke-width:15.5809"
        d="m 270.08722,461.6585 h 29.82646 v 8.76855 h -29.82646 z"
@@ -79,4 +72,19 @@
        id="path3"
        sodipodi:nodetypes="sscccccsscscsssssssssssssccssssssssssssssssssssssssssssssssscssssssssssssssssss"
        inkscape:label="znak"
-       transform="matrix(2.2909036,0,0,2.2909036,23.459533,5.5987123)" /></g></svg>
+       transform="matrix(2.2909036,0,0,2.2909036,23.459533,5.5987123)" /><text
+       xml:space="preserve"
+       style="font-size:145.706px;font-family:'Didact Gothic';-inkscape-font-specification:'Didact Gothic';text-align:start;letter-spacing:2.7649px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#de0000;fill-opacity:0.0923077;stroke:#000000;stroke-width:15.6518;stroke-dasharray:none;stroke-opacity:1"
+       x="98.817024"
+       y="403.50528"
+       id="text2-3"
+       inkscape:label="Text"><tspan
+         sodipodi:role="line"
+         x="98.817024"
+         y="403.50528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:145.706px;font-family:'New Rocker';-inkscape-font-specification:'New Rocker';letter-spacing:2.7649px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.6518;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan1-2">Opilý</tspan></text></g><style
+     id="style1-2">
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #ff0000;stroke-miterlimit:100 } 
+	</style></svg>
